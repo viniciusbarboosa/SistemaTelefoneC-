@@ -1,0 +1,14 @@
+D:\Admin\Documents\Programação\Cursos\dotNet\SistemaCelular\bin\Debug\net8.0\SistemaCelular.exe
+D:\Admin\Documents\Programação\Cursos\dotNet\SistemaCelular\bin\Debug\net8.0\SistemaCelular.deps.json
+D:\Admin\Documents\Programação\Cursos\dotNet\SistemaCelular\bin\Debug\net8.0\SistemaCelular.runtimeconfig.json
+D:\Admin\Documents\Programação\Cursos\dotNet\SistemaCelular\bin\Debug\net8.0\SistemaCelular.dll
+D:\Admin\Documents\Programação\Cursos\dotNet\SistemaCelular\bin\Debug\net8.0\SistemaCelular.pdb
+D:\Admin\Documents\Programação\Cursos\dotNet\SistemaCelular\obj\Debug\net8.0\SistemaCelular.GeneratedMSBuildEditorConfig.editorconfig
+D:\Admin\Documents\Programação\Cursos\dotNet\SistemaCelular\obj\Debug\net8.0\SistemaCelular.AssemblyInfoInputs.cache
+D:\Admin\Documents\Programação\Cursos\dotNet\SistemaCelular\obj\Debug\net8.0\SistemaCelular.AssemblyInfo.cs
+D:\Admin\Documents\Programação\Cursos\dotNet\SistemaCelular\obj\Debug\net8.0\SistemaCelular.csproj.CoreCompileInputs.cache
+D:\Admin\Documents\Programação\Cursos\dotNet\SistemaCelular\obj\Debug\net8.0\SistemaCelular.dll
+D:\Admin\Documents\Programação\Cursos\dotNet\SistemaCelular\obj\Debug\net8.0\refint\SistemaCelular.dll
+D:\Admin\Documents\Programação\Cursos\dotNet\SistemaCelular\obj\Debug\net8.0\SistemaCelular.pdb
+D:\Admin\Documents\Programação\Cursos\dotNet\SistemaCelular\obj\Debug\net8.0\SistemaCelular.genruntimeconfig.cache
+D:\Admin\Documents\Programação\Cursos\dotNet\SistemaCelular\obj\Debug\net8.0\ref\SistemaCelular.dll
